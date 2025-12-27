@@ -71,9 +71,44 @@
 
 ## Какие фильтры ищет первый слой? 
 
+### Baseline
+
 <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/f5dde97d-48d5-4832-9af8-4845c5a96471" />
 
+### Dropout
+
 <img width="954" height="473" alt="image" src="https://github.com/user-attachments/assets/26dc9114-5e80-4386-b2ed-bca6963e0101" />
+
+### BatchNormalization
+
+<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/72fe970f-17ac-47cf-a2ee-257c247652fa" />
+
+
+## Активации, где сеть видит нужные ей паттерны 
+
+### Baseline
+
+<img width="954" height="166" alt="image" src="https://github.com/user-attachments/assets/ef45667c-2c54-4e47-8751-1c09f74135c3" />
+
+<img width="953" height="165" alt="image" src="https://github.com/user-attachments/assets/3d0fcd87-991b-4c8d-bf02-f4294af85432" />
+
+### Dropout
+
+<img width="954" height="166" alt="image" src="https://github.com/user-attachments/assets/31310838-f6e8-4dda-ae76-bb98e48322f2" />
+
+<img width="951" height="168" alt="image" src="https://github.com/user-attachments/assets/23ebb782-4c72-459b-b525-bc6dc5331b80" />
+
+### BatchNormalization
+
+<img width="954" height="165" alt="image" src="https://github.com/user-attachments/assets/82a46fd3-8eaf-42cd-800c-97c4e31d7a52" />
+
+<img width="953" height="166" alt="image" src="https://github.com/user-attachments/assets/0f70a483-5a7d-4f4a-8ec5-fd57cf0e2cd4" />
+
+
+## Grad - CAM, тепловая карта показывающая, какие области изображения наиболее важные для предсказания
+
+<img width="957" height="264" alt="image" src="https://github.com/user-attachments/assets/36319f40-fcb5-4adb-94a3-f37cba3daa3a" />
+
 
 
 
@@ -99,6 +134,7 @@
 📧 denispevcov07@gmail.com
 
 🔗 https://github.com/Molarbo2004
+
 
 
 
