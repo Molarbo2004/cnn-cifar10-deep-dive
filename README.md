@@ -61,9 +61,24 @@
 
 <img width="1050" height="318" alt="image" src="https://github.com/user-attachments/assets/6f395075-6362-4e33-bd91-996fb8a8b394" />
 
+## Наглядное представление как работает свёртка
+
+<img width="996" height="359" alt="image" src="https://github.com/user-attachments/assets/a3c4bd88-946e-4270-8fbe-2ed02e5f93f1" />
+
+## Почему ReLU вместо Sigmoid? 
+
+<img width="945" height="420" alt="image" src="https://github.com/user-attachments/assets/3eb16517-9471-429e-927c-75922a1f54d8" />
+
+## Какие фильтры ищет первый слой? 
+
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/f5dde97d-48d5-4832-9af8-4845c5a96471" />
+
+<img width="954" height="473" alt="image" src="https://github.com/user-attachments/assets/26dc9114-5e80-4386-b2ed-bca6963e0101" />
 
 
-## ▶️ Как запустить
+
+
+## ▶️ Как запустить проект
 
 1. Клонируйте репозиторий:
 
@@ -84,6 +99,7 @@
 📧 denispevcov07@gmail.com
 
 🔗 https://github.com/Molarbo2004
+
 
 
 
