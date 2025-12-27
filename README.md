@@ -57,6 +57,11 @@
 
 <img width="1038" height="387" alt="image" src="https://github.com/user-attachments/assets/8afb6d94-dc91-414f-b84a-7cb15740c940" />
 
+## Пример предсказания любого изображения для всех 3х моделей
+
+<img width="1050" height="318" alt="image" src="https://github.com/user-attachments/assets/6f395075-6362-4e33-bd91-996fb8a8b394" />
+
+
 
 ## ▶️ Как запустить
 
@@ -79,6 +84,7 @@
 📧 denispevcov07@gmail.com
 
 🔗 https://github.com/Molarbo2004
+
 
 
 
