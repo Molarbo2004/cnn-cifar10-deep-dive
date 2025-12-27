@@ -110,7 +110,9 @@
 <img width="957" height="264" alt="image" src="https://github.com/user-attachments/assets/36319f40-fcb5-4adb-94a3-f37cba3daa3a" />
 
 
+## Где модели могут ошибиться? 
 
+<img width="955" height="354" alt="image" src="https://github.com/user-attachments/assets/b07dff7c-b825-41e0-ba4d-0888d432f2ad" />
 
 
 ## ▶️ Как запустить проект
@@ -134,6 +136,7 @@
 📧 denispevcov07@gmail.com
 
 🔗 https://github.com/Molarbo2004
+
 
 
 
